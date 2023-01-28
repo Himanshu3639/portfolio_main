@@ -27,7 +27,7 @@ body{
 header{
     /* position: fixed; */
     /* background-color: black; */
-    background: url(images/rr1.jpg);
+    background: url(rr1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     /* background-position: fixed; */
@@ -138,7 +138,7 @@ nav ul li a:hover{
     /* box-shadow: 3px 2px 3px 3px black; */
     width: 100%;
     /* background-color: black; */
-    background: url(images/rr2.jpg);
+    background: url(rr2.jpg);
     background-repeat: no-repeat;
     background-size:cover ;
 
@@ -267,7 +267,7 @@ nav ul li a:hover{
 
 #gallery{
     width: 100%;
-    background: url(images/rr4.jpg);
+    background: url(rr4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -336,7 +336,7 @@ footer li a:hover{
 @import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
   .service {
     max-width: 100vw;
-    background: url(images/rr3.jpg);
+    background: url(rr3.jpg);
 
     height: 100vh;
     display: grid;
